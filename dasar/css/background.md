@@ -19,7 +19,7 @@ div {
 }
 
 p {
-  background-color: yellow;
+  background-color: yelnlow;
 }
 ```
 
@@ -31,7 +31,10 @@ Kita juga bisa merubah background menggunakan image tertentu, caranya dengan men
 body {
   background-image: url('bgdesert.jpg');
 }
+![image](https://github.com/wrideveloper/miniclass-web/assets/156893112/b3745c33-53f9-4dd2-944f-dd951428b3bd)
+
 ```
+
 
 ## 3. Background Repeat
 
